@@ -1,7 +1,6 @@
 *Incident Response Summary*
 
 *Name:* Pratik Baburao Mane
-
 *Date:* 22 Aug 2025
 
 *Title:* Multiple Security Alerts Detected Through Splunk
